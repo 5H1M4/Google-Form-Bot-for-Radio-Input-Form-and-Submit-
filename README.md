@@ -7,8 +7,7 @@ This is a py script that runs on a venv enviroment
  
  #Path to ChromeDriver
 CHROMEDRIVER_PATH = r"# Adjust path as needed"  
-  
-   # URL of the Google Form
+  # URL of the Google Form
 FORM_URL = "# Replace with your form URL"  
 
 
